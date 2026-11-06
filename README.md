@@ -112,7 +112,7 @@ I build:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SmartJose/SmartJose/output/github-contribution-grid-snake.svg?raw=true" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/SmartJose/SmartJose/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </p>
 
