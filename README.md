@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manueliazme98me&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=SmartJose&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 
@@ -112,7 +112,7 @@ I build:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/manueliazme98me/manueliazme98me/output/github-contribution-grid-snake.svg?raw=true" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/SmartJose/SmartJose/output/github-contribution-grid-snake.svg?raw=true" alt="Contribution Snake"/>
 
 </p>
 
