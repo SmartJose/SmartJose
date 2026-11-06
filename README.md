@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  👋 Hi, I'm Manuel Diaz
+  👋 Hi, I'm SmartJose
 </h1>
 
 <h3 align="center">
@@ -173,7 +173,7 @@ Modern SaaS architecture:
 
 </a>
 
-<a href="https://wa.me/13214852291">
+<a href="https://wa.me/639501358469">
 
 <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
@@ -185,7 +185,7 @@ Modern SaaS architecture:
 
 </a>
 
-<a href="mailto:manueliazme98@gmail.com">
+<a href="mailto:smartbusinessman2026@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 
