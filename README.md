@@ -123,6 +123,7 @@ I build:
 
 AI-powered assistant platform built with:
 
+- FastAPI
 - Next.js
 - TypeScript
 - Python
