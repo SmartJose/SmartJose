@@ -35,8 +35,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+## GitHub in Numbers
+
+![GitHub Stats](https://raw.githubusercontent.com/SmartJose/SmartJose/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![Top Languages](https://raw.githubusercontent.com/SmartJose/SmartJose/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Top Language Commits](https://raw.githubusercontent.com/SmartJose/SmartJose/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Commits](https://raw.githubusercontent.com/SmartJose/SmartJose/main/profile-summary-card-output/github_dark/3-stats.svg)
+
+## Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/SmartJose/SmartJose/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SmartJose&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
